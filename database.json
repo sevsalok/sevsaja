@@ -1,3 +1,8 @@
 {
-  "allowed_users": []
+  "allowed_users": [
+    {
+      "token": "7421350502:AAHSVXasymU9qq8wqeXczkhGWPIudzwdh80",
+      "username": "epep"
+    }
+  ]
 }
