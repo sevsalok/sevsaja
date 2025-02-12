@@ -1,8 +1,12 @@
 {
+  "allowed_tokens": [
+    "7421350502:AAHSVXasymU9qq8wqeXczkhGWPIudzwdh80",
+    "TOKEN_BOT_2",
+    "TOKEN_BOT_3"
+  ],
   "allowed_users": [
-    {
-      "token": "7421350502:AAHSVXasymU9qq8wqeXczkhGWPIudzwdh80",
-      "username": "epep"
-    }
+    "sevsaja",
+    "USERNAME_2",
+    "USERNAME_3"
   ]
 }
